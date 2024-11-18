@@ -7,10 +7,10 @@
 
 ## 技术栈
 
-- **JDK**: 版本 11
 - **Spring Boot**: 快速构建和运行 Web 应用
 - **Spring JPA**: 数据库访问和 ORM
 - **Scrapyd**: 数据抓取任务调度
+- **Docker**：采用 Docker 容器部署，便于快速交付和环境隔离。
 
 ## 功能模块
 
@@ -26,3 +26,4 @@
 - 安装 JDK 11
 - 安装 MySQL（或其他支持的数据库）并创建数据库
 - 安装并运行 Scrapyd 服务
+- 安装并运行 Docker
